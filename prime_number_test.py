@@ -25,4 +25,5 @@ class prime_number_test(unittest.TestCase):
         self.assertEqual(prime_number(2)[1], [2], msg="Result is invalid")
 
     
-   
+   def test_prime_number_two(self):        
+        self.assertEqual(prime_number(3)[1], [2,3], msg="Result is invalid")
