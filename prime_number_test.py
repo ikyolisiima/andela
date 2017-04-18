@@ -30,3 +30,6 @@ class prime_number_test(unittest.TestCase):
        
    def test_prime_number_three(self):        
         self.assertEqual(prime_number(1)[1], [], msg="Result is invalid")
+
+   def test_arg_is_int(self):
+        self.assertIsInstance(prime_number(1)[0], int, msg="Argument is not integer")
