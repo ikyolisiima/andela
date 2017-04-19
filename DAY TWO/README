@@ -1,19 +1,21 @@
 ##ANDELABS##
 #DAY TWO ASSIGNMENT#
     This includes all the assignments of day two which include;
-    #first assignment#
-    --Generating a program called word count that outputs how many times a word appears in a collection of words, sentences
-    --It also includes different test on what the program should output.
+    #first assignment fizzbuzz#
+    --Generating a program called compares 3 and 5 where by if a number is divisible by 3 
+    it returns fizz and if it is divisible by 5 it returns buzz
+    --It also returns fizzBuzz if a number is divisible by both 3 and 5.
 
-    #second assignment#
-    --This was about generating a function that outputs the larget and smallest number from an entered list
-    --It also returns the list if it contains similar elements
-    --A test file is also included
-
-    #third assignment#
+    #second assignment datatype#
+    --This was about generating an output that would return the data type of any item entered 
+    --Fo example ant int, str, bool, and also the length of a string
+    
+    #third assignment carlab#
     --It generates an out put of the type of the car
     --Outputs the model of the car
     --out puts the car speed
     --Also includes the test file that conforms to the output
+    
+
 
 
