@@ -1,0 +1,18 @@
+
+    ##ANDELABS##
+#DAY TWO ASSIGNMENT word count#
+    This includes all the assignments of day two which include;
+    #first assignment#
+    --Generating a program called word count that outputs how many times a word appears in a collection of words, sentences
+    --It also includes different test on what the program should output.
+
+    #second assignment minmax#
+    --This was about generating an outputs the larget and smallest number from an entered list
+    --It also returns the list if it contains similar elements
+    --A test file is also included
+
+    #third assignment creating API#
+    --created a command API 
+    --used a website called jsonplaceholder.typicode.com to get some data
+    --A test file is also included that checks the code's output 
+    
