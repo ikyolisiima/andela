@@ -2,7 +2,7 @@
 
 
 import unittest, requests
-from work import get_data, post_data
+from api import get_data, post_data
 
 class TestsHttpAndWeb(unittest.TestCase):
 	url = "https://jsonplaceholder.typicode.com/posts/"
