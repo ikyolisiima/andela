@@ -1,0 +1,19 @@
+##ANDELABS##
+#DAY TWO ASSIGNMENT#
+    This includes all the assignments of day two which include;
+    #first assignment#
+    --Generating a program called word count that outputs how many times a word appears in a collection of words, sentences
+    --It also includes different test on what the program should output.
+
+    #second assignment#
+    --This was about generating a function that outputs the larget and smallest number from an entered list
+    --It also returns the list if it contains similar elements
+    --A test file is also included
+
+    #third assignment#
+    --It generates an out put of the type of the car
+    --Outputs the model of the car
+    --out puts the car speed
+    --Also includes the test file that conforms to the output
+
+
