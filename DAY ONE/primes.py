@@ -1,9 +1,9 @@
-def prime_number(n):
+def prime_number(number):
     output= []
-    for n in range(2,n+1):
-        if n ==2 or n ==3:
-            output.append(n)
-        if n % 2 != 0 and n % 3 !=0:
-            output.append(n)
+    for number in range(2,number+1):
+        if number ==2 or number ==3:
+            output.append(number)
+        if number % 2 != 0 and number % 3 !=0:
+            output.append(number)
     return n,output
 print (prime_number(1))

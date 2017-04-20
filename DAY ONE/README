@@ -1,0 +1,10 @@
+##DAY ONE ASSIGNMENT##
+
+
+#prime Numbers#
+
+prime numbers are numbers which are only divisible by one and itself
+
+
+--A function that allows you to enter a number and returns all the prime numbers within that range
+--Also includes the test file that tests for possible outcomes in the function
