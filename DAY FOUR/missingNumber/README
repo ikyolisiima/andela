@@ -1,0 +1,11 @@
+
+"""this file tests for different numbers in a list
+whether the list is empty
+whether it has same entries
+or when one misses to input any entry
+and if it is not satisfied, different messages are returned
+"""
+
+"""This program contains a function find_missing which allows two lists
+It checks whether it is not list one and two then returns a zero
+Checks for whether not set list one and set list two"""

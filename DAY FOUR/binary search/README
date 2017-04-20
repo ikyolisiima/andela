@@ -1,0 +1,12 @@
+
+
+
+ """Binary Search to traverse an ordered list, effectively
+       Populate the arrays with valid content
+    """
+
+    result
+    """Get the index of the item with an expected number of loops in\
+     array [1, 2 . . . 20]
+       Returns a dictionary containing {count: value, index: value}
+    """
