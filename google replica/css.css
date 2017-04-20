@@ -1,0 +1,48 @@
+/* CSS Document */
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+a {
+	color: Green;
+	text-decoration: none;
+}
+a.link {
+	color: Blue;
+	text-decoration: underline;
+	font-size: 16px;
+}
+a.link:hover {
+	color: Blue;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: Purple;
+}
+
+a.link_small {
+	color: Green;
+	text-decoration: nome;
+	font-size: 13px;
+}
+
+.footer {
+font-size:10px;
+color:#666666;
+font-weight:bold;
+}
+
+td.td_search_color {
+background-color:Green;
+}
+tr.td_search_color {
+background-color:#EBEFFE;
+}
+
+
+.list {
+font-size:11px;
+color:#333333;
+}
